@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Vighneshregothi  
+- 👀 I’m interested in Data Science, Machine Learning, and AI  
+- 🌱 I’m currently learning NumPy, pandas, scikit-learn, and building real-world projects  
+- 💞️ I’m looking to collaborate on open-source ML projects and data analysis tasks  
+- 📫 How to reach me: vighneshregothi@gmail.com   
+- ⚡ Fun fact: I love visualizing data — turning raw numbers into stories!
