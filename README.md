@@ -1,6 +1,20 @@
-- 👋 Hi, I’m @Vighneshregothi  
-- 👀 I’m interested in Data Science, Machine Learning, and AI  
-- 🌱 I’m currently learning NumPy, pandas, scikit-learn, and building real-world projects  
-- 💞️ I’m looking to collaborate on open-source ML projects and data analysis tasks  
-- 📫 How to reach me: vighneshregothi@gmail.com   
-- ⚡ Fun fact: I love visualizing data — turning raw numbers into stories!
+# 👋 Hi, I'm Vighnesh
+
+🎯 Machine Learning Intern building practical AI & ML projects  
+🔍 Interested in GenAI, LLM systems, and applied machine learning  
+📚 Currently improving skills in Python, ML, LangGraph, and data pipelines  
+🚀 Preparing for my Master's in AI & ML in Australia (2026)
+
+ 🔧 Tech Stack
+- Python (Pandas, NumPy, Scikit-learn)
+- Machine Learning & Data Analysis
+- FastAPI, LangChain/LangGraph
+- SQL
+- Visualization (Matplotlib, Seaborn)
+
+📂 Featured Projects
+(coming soon — I will add your projects as we build them)
+
+📬 Contact
+- Email:vighneshregothi@gmail.com  
+- LinkedIn:
