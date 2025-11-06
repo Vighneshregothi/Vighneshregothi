@@ -17,4 +17,4 @@
 
 📬 Contact
 - Email:vighneshregothi@gmail.com  
-- LinkedIn:
+- LinkedIn:https://www.linkedin.com/in/vighnesh-regothi-a73a7727a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsGyuBrakTgyYXYYVuiCd7Q%3D%3D
